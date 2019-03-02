@@ -1,0 +1,4 @@
+Update Software for 352ShippingLabel Maker
+
+this will not run independantly of the software as it required the HOME directory on the server to pull updated from. 
+This home directory is passed from the main softwares variables
