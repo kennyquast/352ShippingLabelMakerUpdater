@@ -66,10 +66,11 @@
     <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>09D8050DE8912BBDA660A03080B68127BDDDBB4F</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>71E45699B57E4E6DF528400AD94E18FD561BFE8F</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>352ShippingLabelMakerUpdater_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
